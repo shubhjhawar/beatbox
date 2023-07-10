@@ -23,7 +23,8 @@ width: 100%;
 
 }
 .layout{
-  padding: 10px;
+  padding-right: 120px;
+  padding-left:110px;
 }
 
 .navbar-container{
