@@ -12,6 +12,7 @@ const nextConfig = {
         config.resolve.fallback = {
           fs: false,
           child_process: false,
+          querystring: require.resolve("querystring-es3"),
         }
       }
       
